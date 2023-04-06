@@ -35,8 +35,8 @@
 <br>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imblackline&layout=compact&theme=dark)](https://github.com/imblackline/github-readme-stats)
+<img style="height:165px" src="https://github-readme-stats.vercel.app/api?username=imblackline&show_icons=true&theme=gotham" alt="imblackline" />
 
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-<img src="https://github-readme-stats.vercel.app/api?username=imblackline&show_icons=true&theme=gotham" alt="imblackline" />
 
 
