@@ -1,9 +1,6 @@
-## Fancy seeing you here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imblackline.imblackline)
+## ⚫ Just a developer <br>
 
-💡 Always learning <br>
-🚀 Experimenting with new technologies <br>
-
-### Connect with me:
+### Can find me:
 
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-light.svg)](https://amirhosein-yaghoubnezhad.ir/#gh-light-mode-only)
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-dark.svg)](https://amirhosein-yaghoubnezhad.ir/#gh-dark-mode-only)
@@ -12,7 +9,7 @@
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://linkedin.com/in/amirhosein-yaghoubnezhad#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-## Technologies
+### I have fun with:
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="html" height ="42px"  src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.svg"> </a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="css" height ="42px"  src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/css/css.svg"> </a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="sass" height ="42px"  src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/sass/sass.svg"> </a>
@@ -25,12 +22,7 @@
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Figma" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/figma/figma.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/aws/aws.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="git-scm" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/git-scm/git-scm.svg"></a>
-<br>
-<br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imblackline&layout=compact&theme=dark)](https://github.com/imblackline/github-readme-stats)
-<img style="height:165px" src="https://github-readme-stats.vercel.app/api?username=imblackline&show_icons=true&theme=gotham" alt="imblackline" />
 
 
 
